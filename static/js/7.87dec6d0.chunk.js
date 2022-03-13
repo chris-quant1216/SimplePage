@@ -1,0 +1,1 @@
+(this["webpackJsonpthumbshot-fe"]=this["webpackJsonpthumbshot-fe"]||[]).push([[7],{250:function(t,n,s){"use strict";s.r(n);s(0);var e=s(3);n.default=function(){return Object(e.jsx)("div",{children:"notFound"})}}}]);
